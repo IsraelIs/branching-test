@@ -1,18 +1,23 @@
 h1 {
-  color: darkred;
+  color: gray;
 }
 
 h2 {
   font-style: italic;
-  color: red;
+  color: black;
 }
 
 p {
-  color: crimson;
+  color: black;
+  text-align: left;
+}
+a{
+  color:darkslateblue;
+  text-align: center;
 }
 
 body {
-  background-color: salmon;
+  background-image: url("https://www.xtns.org/wp-content/uploads/2015/04/island-resort-charming-caribbean-resort-deals-caribbean-beach-resort-queen-beds-caribbean-beach-resort-quick-service-dining-disney-caribbean-beach-resort-queen-beds-caribbean-resort-private-pool.jpg");
   font-family: sans-serif;
   text-align: center;
 }
